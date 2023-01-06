@@ -1,5 +1,5 @@
 {
-  "name": "cypress-eslint-extended",
+  "name": "eslint-plugin-ls-extended",
   "version": "1.0.0",
   "description": "Extended eslint rules for Cypress to enforce best practices",
   "main": "index.js",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/TylorMayfieldLoanStreet/cypress-eslint-extended/issues"
   },
-  "homepage": "https://github.com/TylorMayfieldLoanStreet/cypress-eslint-extended#readme"
+  "homepage": "https://github.com/TylorMayfieldLoanStreet/cypress-eslint-extended#readme",
+  "dependencies": {
+    "eslint": "^8.31.0",
+    "eslint-plugin-cypress": "^2.12.1",
+    "globals": "^13.19.0"
+  }
 }
