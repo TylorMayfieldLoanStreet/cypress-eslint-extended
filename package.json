@@ -1,0 +1,19 @@
+{
+  "name": "cypress-eslint-extended",
+  "version": "1.0.0",
+  "description": "Extended eslint rules for Cypress to enforce best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylorMayfieldLoanStreet/cypress-eslint-extended.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylorMayfieldLoanStreet/cypress-eslint-extended/issues"
+  },
+  "homepage": "https://github.com/TylorMayfieldLoanStreet/cypress-eslint-extended#readme"
+}
