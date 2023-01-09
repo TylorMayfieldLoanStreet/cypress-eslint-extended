@@ -4,7 +4,7 @@ Include the `AQUA` ticket ID in describe statements: All describe statements sho
 
 ```
 // Good
-describe('[Ticket ID: 123456] login form', () => {
+describe('AQUA-23 login form', () => {
   // test cases go here
 });
 
