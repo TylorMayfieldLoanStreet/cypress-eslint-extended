@@ -1,4 +1,4 @@
-# cypress-eslint-extended
+# eslint-plugin-ls-extended
 Extended rules for eslint to enforce best practices in Cypress
 
 
